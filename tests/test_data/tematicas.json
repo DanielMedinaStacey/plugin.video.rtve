@@ -1,0 +1,272 @@
+{
+  "page": {
+    "items": [
+      {
+        "uri": "http://www.rtve.es/api/tematicas/814",
+        "id": "814",
+        "uid": "RT_TEMATI",
+        "title": "Temática",
+        "traducciones": {
+          "ES": "Temática"
+        },
+        "parentRef": "",
+        "childrenRef": "http://www.rtve.es/api/tematicas/814/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/814/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/814/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/815",
+        "id": "815",
+        "uid": "TE_PORTAD",
+        "title": "Categorías",
+        "traducciones": {
+          "ES": "Categorías"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/814",
+        "childrenRef": "http://www.rtve.es/api/tematicas/815/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/815/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/815/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/830",
+        "id": "830",
+        "uid": "TE_RTVE",
+        "title": "RTVE",
+        "traducciones": {
+          "ES": "RTVE"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/815",
+        "childrenRef": "http://www.rtve.es/api/tematicas/830/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/830/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/830/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/63110",
+        "id": "63110",
+        "uid": "TE_SCOMERC",
+        "title": "Comercial",
+        "traducciones": {
+          "ES": "Comercial"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/830",
+        "childrenRef": "http://www.rtve.es/api/tematicas/63110/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/63110/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/63110/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64311",
+        "id": "64311",
+        "uid": "TE_SCOINFA",
+        "title": "Infantil",
+        "traducciones": {
+          "ES": "Infantil"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64311/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64311/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64311/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/66730",
+        "id": "66730",
+        "uid": "TE_SCOSEDI",
+        "title": "Series diarias",
+        "traducciones": {
+          "ES": "Series diarias"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/66730/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/66730/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/66730/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64313",
+        "id": "64313",
+        "uid": "TE_SCONATU",
+        "title": "Naturaleza",
+        "traducciones": {
+          "ES": "Naturaleza"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64313/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64313/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64313/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64315",
+        "id": "64315",
+        "uid": "TE_SCOCULT",
+        "title": "Cultura",
+        "traducciones": {
+          "ES": "Cultura"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64315/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64315/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64315/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64292",
+        "id": "64292",
+        "uid": "TE_SCOHIST",
+        "title": "Historia",
+        "traducciones": {
+          "ES": "Historia"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64292/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64292/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64292/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64290",
+        "id": "64290",
+        "uid": "TE_SCOFICC",
+        "title": "Ficción",
+        "traducciones": {
+          "ES": "Ficción"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64290/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64290/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64290/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64291",
+        "id": "64291",
+        "uid": "TE_SCOVIAJ",
+        "title": "Viajes",
+        "traducciones": {
+          "ES": "Viajes"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64291/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64291/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64291/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64293",
+        "id": "64293",
+        "uid": "TE_SCOESTI",
+        "title": "Estilos de vida",
+        "traducciones": {
+          "ES": "Estilos de vida"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64293/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64293/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64293/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/65650",
+        "id": "65650",
+        "uid": "TE_SCOSERI",
+        "title": "Series",
+        "traducciones": {
+          "ES": "Series"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/65650/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/65650/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/65650/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/65670",
+        "id": "65670",
+        "uid": "TE_SCOTENO",
+        "title": "Telenovelas",
+        "traducciones": {
+          "ES": "Telenovelas"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/65670/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/65670/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/65670/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/65671",
+        "id": "65671",
+        "uid": "TE_SCOMINI",
+        "title": "Miniseries",
+        "traducciones": {
+          "ES": "Miniseries"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/65671/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/65671/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/65671/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/65672",
+        "id": "65672",
+        "uid": "TE_SCOCINE",
+        "title": "Cine",
+        "traducciones": {
+          "ES": "Cine"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/65672/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/65672/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/65672/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/65651",
+        "id": "65651",
+        "uid": "TE_SCOFORM",
+        "title": "Formatos",
+        "traducciones": {
+          "ES": "Formatos"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/65651/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/65651/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/65651/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/66190",
+        "id": "66190",
+        "uid": "TE_SCOCANA",
+        "title": "Canales",
+        "traducciones": {
+          "ES": "Canales"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/66190/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/66190/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/66190/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/66210",
+        "id": "66210",
+        "uid": "TE_SCOMTOP",
+        "title": "Top Comercial",
+        "traducciones": {
+          "ES": "Top Comercial"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/66210/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/66210/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/66210/ancestros"
+      },
+      {
+        "uri": "http://www.rtve.es/api/tematicas/64310",
+        "id": "64310",
+        "uid": "TE_SCODOCU",
+        "title": "Documentales",
+        "traducciones": {
+          "ES": "Documentales"
+        },
+        "parentRef": "http://www.rtve.es/api/tematicas/63110",
+        "childrenRef": "http://www.rtve.es/api/tematicas/64310/hijos",
+        "descendantsRef": "http://www.rtve.es/api/tematicas/64310/descendientes",
+        "ancestrosRef": "http://www.rtve.es/api/tematicas/64310/ancestros"
+      }
+    ],
+    "number": 1,
+    "size": 20,
+    "offset": 0,
+    "total": 9990,
+    "totalPages": 500,
+    "numElements": 20
+  }
+}

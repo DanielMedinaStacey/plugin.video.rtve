@@ -7,6 +7,7 @@ from resources.lib import kodiutils
 from resources.lib import kodilogging
 from xbmcgui import ListItem
 from xbmcplugin import addDirectoryItem, endOfDirectory
+import Listings
 
 
 ADDON = xbmcaddon.Addon()
@@ -17,10 +18,11 @@ plugin = routing.Plugin()
 
 @plugin.route('/')
 def index():
+    categories = Listings.fetch_categories()
     addDirectoryItem(plugin.handle, plugin.url_for(
-        show_category, "one"), ListItem("Category One"), True)
+        show_category, "one"), ListItem(categories[0]), True)
     addDirectoryItem(plugin.handle, plugin.url_for(
-        show_category, "two"), ListItem("Category Two"), True)
+        show_category, "two"), ListItem(categories[1]), True)
     endOfDirectory(plugin.handle)
 
 
@@ -32,3 +34,4 @@ def show_category(category_id):
 
 def run():
     plugin.run()
+
